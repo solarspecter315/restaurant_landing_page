@@ -45,7 +45,7 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:gethugothemes/restaurant-hugo.git
+git clone git@github.com:solarspecter315/restaurant_landing_page.git
 
 # cd in the project directory
 $ cd restaurant-hugo/exampleSite/
